@@ -5,7 +5,7 @@ A program where you can easily, quickly and efficiently find necessary informati
 This program requires Java to compile and run.
 
 ## Credits
-**Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+**Author:** Mo Balti - [mobalti](https://github.com/mobalti)
 
 This program is based on Phone Book project on JetBrains Academy.
 
